@@ -15,7 +15,7 @@
 		"@walletconnect/modal": "2.6.1",
 		"core-js": "3.26.0",
 		"detect-it": "4.0.1",
-		"ethers": "5.7.2",
+		"ethers": "6.13.4",
 		"lodash.debounce": "4.0.8",
 		"nanoevents": "7.0.1",
 		"node-polyfill-webpack-plugin": "2.0.1",
@@ -26,7 +26,7 @@
 		"vue-router": "4.1.6",
 		"vue-uuid": "3.0.0",
 		"vuex": "4.1.0",
-		"web3": "1.8.0",
+		"web3": "4.14.0",
 		"@tonconnect/sdk": "3.0.0",
 		"@tonconnect/ui": "2.0.0"
 	},
